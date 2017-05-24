@@ -1,6 +1,6 @@
 # vue-weather
 
-> A Vue.js project
+> 大二下课程设计 基于vue的天气预报 基本没有样式代码
 
 ## Build Setup
 
